@@ -36,3 +36,10 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+#album-container {
+    list-style: none;
+    padding: 0;
+    border: 4px solid blue;
+    background-color: coral;
+}
